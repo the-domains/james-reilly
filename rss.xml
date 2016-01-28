@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Home of Digital Designer James Reilly]]></title>
         <description><![CDATA[Home of Digital Designer James Reilly]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/james-reilly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 21:38:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jan 2016 21:38:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/james-reilly/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>About me</p>]]></description>
+            <link>https://thegrid.ai/james-reilly/34fc8ea8-40c1-42e4-8c2a-04197ec0be9a/index.html</link>
+            <guid isPermaLink="false">34fc8ea8-40c1-42e4-8c2a-04197ec0be9a</guid>
+            <pubDate>Thu, 28 Jan 2016 21:37:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I am a freelance digital designer.</p>]]></description>
-            <link>undefined59628842-16cc-4cdf-8eb0-89cda6f6e875/index.html</link>
+            <link>https://thegrid.ai/james-reilly/59628842-16cc-4cdf-8eb0-89cda6f6e875/index.html</link>
             <guid isPermaLink="false">59628842-16cc-4cdf-8eb0-89cda6f6e875</guid>
             <pubDate>Thu, 28 Jan 2016 21:37:20 GMT</pubDate>
         </item>
